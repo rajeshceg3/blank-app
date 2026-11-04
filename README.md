@@ -17,3 +17,7 @@ A simple Streamlit app template for you to modify!
    ```
    $ streamlit run streamlit_app.py
    ```
+
+### Verification
+
+Follow [.cursor/skills/verify-streamlit-template/SKILL.md](.cursor/skills/verify-streamlit-template/SKILL.md) for an actual isolated Streamlit/browser proof at mobile and desktop widths. This is still only a starter template, not a functional application. The helper checks the title, starter message, docs link, exceptions and reload. Hosted/deployment behavior and future product features are not certified.
